@@ -3,18 +3,26 @@ I've found this suites me better than most others
 
 Major changes are 1 == F1, 5 == F5, etc.
 Also, the FN map and the Keypad both have F1-F4 on the 2nd row,
-replacing QWER and so on ... so you get a 4x3 grid of F1-F12.
+replacing QWER and so on ... so you get a 4x3 grid of F1-F12. 
+I find thats slightly easier than trying to figure out the 5 key is F6, 
+but granted then F12 'wraps around'
 
 I also setup something like typical laptop arrow keys:
 
+```
   ^
 < v >
+```
 
 into four keys:
+```
 <^v>
-across the bottom. That means the important programming keys \[ and \] are on the left. 
+```
 
-Also, control is also is moved to the more 'normal' bottom left and right position, now meaning 'Fn' is moved to the key clusters.
+... across the bottom. That means the important programming keys \[ and \] are on the left. 
+
+Also, control is also is moved to the more 'normal' bottom left and right position, now meaning 'Fn' is moved to the key clusters. 
+The Advantage Pro doesn't really have those keycaps for some reason, but the Advantage360 did. I'm using this at an office where I have realy just 1 PC and a KVM but very rarely switch. At home, I have 4 PC's, so the 360 works better as the USB connection allows a faster switch with the KVM. 
 
 
 # Kinesis Advantage 360 Pro ZMK Config
